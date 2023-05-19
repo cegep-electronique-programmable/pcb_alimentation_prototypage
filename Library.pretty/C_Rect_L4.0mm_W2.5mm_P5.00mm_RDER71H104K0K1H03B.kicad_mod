@@ -39,8 +39,8 @@
     (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp 92fe7950-1184-4493-9f22-4d19bf6ab111))
   (fp_line (start 4 1.25) (end 4 -1.25)
     (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp 501e5634-6140-4df4-8511-d86289161764))
-  (pad "1" thru_hole circle (at 0 0) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask") (tstamp ba6e9c21-b557-4bb8-9bf3-3a025a1b013b))
-  (pad "2" thru_hole circle (at 5 0) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask") (tstamp 18be64af-59c5-4c67-ae9d-06a3f185158a))
+  (pad "1" thru_hole circle (at 0 0) (size 2.032 2.032) (drill 0.9144) (layers "*.Cu" "*.Mask") (tstamp ba6e9c21-b557-4bb8-9bf3-3a025a1b013b))
+  (pad "2" thru_hole circle (at 5 0) (size 2.032 2.032) (drill 0.9144) (layers "*.Cu" "*.Mask") (tstamp 18be64af-59c5-4c67-ae9d-06a3f185158a))
   (model "${KIPRJMOD}/shapes3D/RDER71H104K0K1H03B.STEP"
     (offset (xyz 2.5 0 0))
     (scale (xyz 1 1 1))
