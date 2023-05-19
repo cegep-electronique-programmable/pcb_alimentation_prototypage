@@ -49,9 +49,9 @@
     (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp aa77f91d-02c8-4384-b5ff-e88ae31f705f))
   (fp_line (start 1.27 6.35) (end -1.27 6.35)
     (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp d67e16ff-cff3-40f7-9051-097fbebd192a))
-  (pad "1" thru_hole rect (at 0 0) (size 2.032 2.032) (drill 1.1176) (layers "*.Cu" "*.Mask") (tstamp a98fb159-e419-47f9-a454-405923777aa3))
-  (pad "2" thru_hole oval (at 0 2.54) (size 2.032 2.032) (drill 1.1176) (layers "*.Cu" "*.Mask") (tstamp df196ce9-52f5-4929-851c-15e7fa9e3580))
-  (pad "3" thru_hole oval (at 0 5.08) (size 2.032 2.032) (drill 1.1176) (layers "*.Cu" "*.Mask") (tstamp 32f0f8c4-1293-4474-854c-eefedb49b722))
+  (pad "1" thru_hole rect (at 0 0) (size 2.032 2.032) (drill 0.9144) (layers "*.Cu" "*.Mask") (tstamp a98fb159-e419-47f9-a454-405923777aa3))
+  (pad "2" thru_hole oval (at 0 2.54) (size 2.032 2.032) (drill 0.9144) (layers "*.Cu" "*.Mask") (tstamp df196ce9-52f5-4929-851c-15e7fa9e3580))
+  (pad "3" thru_hole oval (at 0 5.08) (size 2.032 2.032) (drill 0.9144) (layers "*.Cu" "*.Mask") (tstamp 32f0f8c4-1293-4474-854c-eefedb49b722))
   (model "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x03_P2.54mm_Vertical.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
