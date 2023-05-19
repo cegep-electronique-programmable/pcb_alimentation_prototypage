@@ -49,8 +49,8 @@
     (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp af392096-4edc-4275-abb2-b61f0ce7e5f7))
   (fp_line (start 1.27 3.81) (end -1.27 3.81)
     (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp 9270affd-45bf-4382-aaad-72e9677cade4))
-  (pad "1" thru_hole rect (at 0 0) (size 2.032 2.032) (drill 1.1176) (layers "*.Cu" "*.Mask") (tstamp 1895dc07-87c3-423b-b4b6-cdb26f2aef02))
-  (pad "2" thru_hole oval (at 0 2.54) (size 2.032 2.032) (drill 1.1176) (layers "*.Cu" "*.Mask") (tstamp 3e79c654-fdb9-480b-9634-2b3a829b56b5))
+  (pad "1" thru_hole rect (at 0 0) (size 2.032 2.032) (drill 0.9144) (layers "*.Cu" "*.Mask") (tstamp 1895dc07-87c3-423b-b4b6-cdb26f2aef02))
+  (pad "2" thru_hole oval (at 0 2.54) (size 2.032 2.032) (drill 0.9144) (layers "*.Cu" "*.Mask") (tstamp 3e79c654-fdb9-480b-9634-2b3a829b56b5))
   (model "${KICAD6_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x02_P2.54mm_Vertical.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))

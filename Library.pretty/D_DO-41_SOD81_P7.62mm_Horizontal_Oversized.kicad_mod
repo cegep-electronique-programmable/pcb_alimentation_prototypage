@@ -75,8 +75,8 @@
     (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp ef478a04-c261-4595-a856-9c31ae559bff))
   (fp_line (start 7.62 0) (end 6.41 0)
     (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp 3576358a-adf9-443d-9030-c8ed9611fc6e))
-  (pad "1" thru_hole rect (at 0 0) (size 2.286 2.286) (drill 1.1176) (layers "*.Cu" "*.Mask") (tstamp 82c60d6f-030a-456d-b8cf-3a237dd24c05))
-  (pad "2" thru_hole oval (at 7.62 0) (size 2.286 2.286) (drill 1.1176) (layers "*.Cu" "*.Mask") (tstamp 49660cdb-43aa-4e8c-8567-1c7ef849e7cd))
+  (pad "1" thru_hole rect (at 0 0) (size 2.286 2.286) (drill 0.9144) (layers "*.Cu" "*.Mask") (tstamp 82c60d6f-030a-456d-b8cf-3a237dd24c05))
+  (pad "2" thru_hole oval (at 7.62 0) (size 2.286 2.286) (drill 0.9144) (layers "*.Cu" "*.Mask") (tstamp 49660cdb-43aa-4e8c-8567-1c7ef849e7cd))
   (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-41_SOD81_P7.62mm_Horizontal.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))

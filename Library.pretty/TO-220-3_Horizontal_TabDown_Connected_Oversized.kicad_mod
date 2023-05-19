@@ -67,9 +67,9 @@
     (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp 8e57b28a-2e8f-47e7-aa10-b079d53f7f22))
   (fp_circle (center 2.54 -16.66) (end 4.39 -16.66)
     (stroke (width 0.1) (type solid)) (fill none) (layer "F.Fab") (tstamp 8c33d3d0-6e6f-427b-a73d-1cba0be83d88))
-  (pad "1" thru_hole circle (at 0 0) (size 2.032 2.032) (drill 1.1176) (layers "*.Cu" "*.Mask") (tstamp bd62671b-046b-4b57-8bc9-bd4a85dee6c4))
-  (pad "2" thru_hole circle (at 2.54 0) (size 2.032 2.032) (drill 1.1176) (layers "*.Cu" "*.Mask") (tstamp 0e526b01-8cfc-4aa6-869e-54bb88cb9ceb))
-  (pad "3" thru_hole circle (at 5.08 0) (size 2.032 2.032) (drill 1.1176) (layers "*.Cu" "*.Mask") (tstamp 8c9f285f-90ee-43b8-8f37-a2020b6a45fd))
+  (pad "1" thru_hole circle (at 0 0) (size 2.032 2.032) (drill 0.9144) (layers "*.Cu" "*.Mask") (tstamp bd62671b-046b-4b57-8bc9-bd4a85dee6c4))
+  (pad "2" thru_hole circle (at 2.54 0) (size 2.032 2.032) (drill 0.9144) (layers "*.Cu" "*.Mask") (tstamp 0e526b01-8cfc-4aa6-869e-54bb88cb9ceb))
+  (pad "3" thru_hole circle (at 5.08 0) (size 2.032 2.032) (drill 0.9144) (layers "*.Cu" "*.Mask") (tstamp 8c9f285f-90ee-43b8-8f37-a2020b6a45fd))
   (pad "4" thru_hole circle (at 2.54 -16.764) (size 5.5 5.5) (drill 4) (property pad_prop_heatsink) (layers "*.Cu" "*.Mask")
     (thermal_bridge_width 2.032) (tstamp 65c78812-da4b-44e2-89e4-0c0b74314278))
   (model "${KICAD6_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-220-3_Horizontal_TabDown.wrl"

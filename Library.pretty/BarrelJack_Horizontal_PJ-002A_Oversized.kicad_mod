@@ -75,10 +75,10 @@
     (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp 2c171d2c-e4df-49c2-a24e-2133bedced62))
   (fp_line (start 0.8 4.5) (end 0.8 -3.75)
     (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp 992f567b-cf58-4085-b279-8de5e5c3fc81))
-  (pad "1" thru_hole rect (at 0 0) (size 2.794 5.334) (drill oval 1.1176 3.556) (layers "*.Cu" "*.Mask") (tstamp fd330ef1-4165-4e62-aaef-843952b46215))
-  (pad "2" thru_hole roundrect (at -6 0) (size 2.794 5.334) (drill oval 1.1176 3.556) (layers "*.Cu" "*.Mask") (roundrect_rratio 0.5)
+  (pad "1" thru_hole rect (at 0 0) (size 2.794 5.334) (drill oval 0.9144 3.556) (layers "*.Cu" "*.Mask") (tstamp fd330ef1-4165-4e62-aaef-843952b46215))
+  (pad "2" thru_hole roundrect (at -6 0) (size 2.794 5.334) (drill oval 0.9144 3.556) (layers "*.Cu" "*.Mask") (roundrect_rratio 0.5)
     (thermal_bridge_width 0.762) (tstamp c8660395-67dd-4b59-8dd8-68e601a35b4a))
-  (pad "3" thru_hole roundrect (at -3 4.7) (size 5.334 2.794) (drill oval 3.048 1.1176) (layers "*.Cu" "*.Mask") (roundrect_rratio 0.5)
+  (pad "3" thru_hole roundrect (at -3 4.7) (size 5.334 2.794) (drill oval 3.048 0.9144) (layers "*.Cu" "*.Mask") (roundrect_rratio 0.5)
     (thermal_bridge_width 0.762) (tstamp ed7b3afc-550b-4a31-8a05-dfa6642882bd))
   (model "${KIPRJMOD}/shapes3D/PJ-002A--3DModel-STEP-269445.STEP"
     (offset (xyz 0 0 0.0508))
